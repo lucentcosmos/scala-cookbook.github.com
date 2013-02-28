@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://scala-cookbook.github.com/sitemap.xml 
