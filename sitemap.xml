@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://scala-cookbook.github.com/blog/archives/</loc>
-        <lastmod>2013-02-28T12:42:31+01:00</lastmod>
+        <loc>http://scala-cookbook.com/blog/archives/</loc>
+        <lastmod>2013-03-02T08:48:00+01:00</lastmod>
     </url>
     <url>
-        <loc>http://scala-cookbook.github.com/</loc>
-        <lastmod>2013-02-28T12:42:31+01:00</lastmod>
+        <loc>http://scala-cookbook.com/</loc>
+        <lastmod>2013-03-02T08:48:00+01:00</lastmod>
     </url>
     <url>
-        <loc>http://scala-cookbook.github.com/robots.txt</loc>
-        <lastmod>2013-02-28T12:42:31+01:00</lastmod>
+        <loc>http://scala-cookbook.com/robots.txt</loc>
+        <lastmod>2013-03-02T08:48:00+01:00</lastmod>
     </url>
 </urlset>

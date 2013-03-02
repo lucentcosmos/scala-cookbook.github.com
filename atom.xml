@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://scala-cookbook.github.com/atom.xml" rel="self"/>
-  <link href="http://scala-cookbook.github.com/"/>
-  <updated>2013-02-28T12:44:54+01:00</updated>
-  <id>http://scala-cookbook.github.com/</id>
+  <title><![CDATA[scala-cookbook.com]]></title>
+  <link href="http://scala-cookbook.com/atom.xml" rel="self"/>
+  <link href="http://scala-cookbook.com/"/>
+  <updated>2013-03-02T09:00:55+01:00</updated>
+  <id>http://scala-cookbook.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Thorben Stangenberg]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
