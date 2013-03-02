@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://scala-cookbook.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://scala-cookbook.com
+title: scala-cookbook.com
+subtitle: fine scala recipies
+author: Thorben Stangenberg
 simple_search: http://google.com/search
-description:
+description: description
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
