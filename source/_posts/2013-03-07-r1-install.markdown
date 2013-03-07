@@ -1,0 +1,38 @@
+---
+layout: post
+title: "R1 Installation"
+date: 2013-03-07 07:50
+comments: true
+categories: 
+---
+
+## OSX
+- Use the [Typesafe][typesafe] [stack installation][typesafe-installation]
+
+## Windows
+- Use the [Typesafe][typesafe] [stack installation][typesafe-installation]
+
+## Debian/Ubuntu
+- Use the [Typesafe][typesafe] [stack installation][typesafe-installation]
+
+## Redhat/CentOS
+- Use the [Typesafe][typesafe] [stack installation][typesafe-installation]
+
+## Universal
+- Use the [Typesafe][typesafe] [stack installation][typesafe-installation]
+
+## Chef
+- the [opscode community][ops-community] provides a [recipe][ops-recipe] 
+
+## Puppet
+- there is a [puppet][puppet] recipe in the [puppet community forge][puppet-forge]
+
+## Boxen
+- ?
+
+[typesafe]: http://typesafe.com
+[typesafe-installation]: http://typesafe.com/resources/typesafe-stack/downloading-installing.html
+[ops-community]: http://community.opscode.com
+[ops-recipe]: http://community.opscode.com/cookbooks/scala
+[puppet]: https://puppetlabs.com
+[puppet-forge]: https://forge.puppetlabs.com/garethr/scala
